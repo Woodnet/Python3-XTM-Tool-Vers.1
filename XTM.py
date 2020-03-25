@@ -1,3 +1,7 @@
+#Author: https://woodnet.000webhostapp.com
+#25.03.2020
+#Python 3.7.2
+#XTM-Tool
 from scapy.all import *
 from scapy.all import Ether
 import os,time,socket,random
