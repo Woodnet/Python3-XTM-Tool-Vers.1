@@ -4,7 +4,7 @@ Dieses Tool benötigt:
 
         --> Python3
         --> Betriebssystem (egal - Windows bevorzugt)
-        --> Python Modul: "scapy","colorama","os","time","datetime","random"
+        --> Python Module: "scapy","colorama","os","time","datetime","random"
 
 
 
